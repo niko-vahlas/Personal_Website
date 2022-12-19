@@ -186,7 +186,7 @@ nav {
     align-items: center;
     justify-content: center;
     position: relative;
-    width: 50%;
+    width: 30%;
     box-shadow: 0 20px 80px rgba(0, 0, 0, 0.45);
     border-radius: 20px;
     overflow: hidden;
@@ -211,7 +211,7 @@ nav {
   }
   
   .project--wrapper:hover .project--image {
-    opacity: 0.5;
+    opacity: 0.3;
   }
   
   .project--wrapper:hover .project--para {
